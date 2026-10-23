@@ -14,7 +14,7 @@ import os
 import csv
 from datetime import datetime
 
-PORT = 8000
+PORT = int(os.environ.get('PORT', 8000))
 CSV_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'CSV')
 CSV_FILE = os.path.join(CSV_DIR, 'registrations.csv')
 
@@ -131,6 +131,7 @@ class MindScapeSHandler(http.server.SimpleHTTPRequestHandler):
             self.send_error(404, "Endpoint not found")
 
 if __name__ == '__main__':
+    socketserver.TCPServer.allow_reuse_address = True
     with socketserver.TCPServer(("", PORT), MindScapeSHandler) as httpd:
         print(f"MindScapeS Server running at http://localhost:{PORT}")
         print(f"CSV registrations will be stored in: {CSV_FILE}")
