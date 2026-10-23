@@ -1,0 +1,8 @@
+TALK TITLE: Working Memory Representations and Object File Tracking in Infancy
+SPEAKER: Prof. Melissa Kibbe (Boston University)
+DATE: Thursday, October 30, 2026 • 6:30 PM IST
+
+ABSTRACT:
+Human cognitive systems face the persistent challenge of representing and updating information about objects that undergo occlusion, motion, or state transitions. In this presentation, I discuss developmental and experimental evidence examining how infants and young children store object identity versus bound visual features in working memory. 
+
+Using looking-time paradigms and violation-of-expectation experiments, our lab explores the functional distinction between 'object files' that maintain spatiotemporal indices and feature bundles that encode surface properties such as color and shape. We find that early representational formats are often conceptually rich yet perceptually sparse. The talk explores how these early constraints shape later numerical reasoning and symbolic thought, with direct implications for philosophical debates on perceptual content and conceptual acquisition.

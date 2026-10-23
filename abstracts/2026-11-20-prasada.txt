@@ -1,0 +1,8 @@
+TALK TITLE: Principled Connections, Formal Explanations, and the Conceptual Mind
+SPEAKER: Prof. Sandeep Prasada (Hunter College, CUNY)
+DATE: Friday, November 20 & Saturday, November 21, 2026 • 8:00 AM IST (Two-Day Colloquium)
+
+ABSTRACT:
+Human conceptual frameworks routinely distinguish between connections that are principled (e.g., 'tigers have stripes') and those that are purely statistical or accidental (e.g., 'barns are red'). How do speakers represent this distinction, and how does it support generic assertions and formal explanations?
+
+Over this two-session colloquium, I explore psychological and linguistic evidence demonstrating that the human conceptual system possesses dedicated representational resources for encoding aspects of kinds. In Part I, we analyze experimental findings distinguishing formal connections from prevalence-based associations, examining why generics resist standard quantificational reduction. In Part II, we examine how kind-based formal explanations ('it has stripes because it is a tiger') structure inductive projection and early essentialist intuitions.

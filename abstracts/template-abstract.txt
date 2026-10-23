@@ -1,0 +1,8 @@
+TALK TITLE: [Insert Title of the Talk Here]
+SPEAKER: Prof. [Speaker Full Name] ([Institution / Department])
+DATE: [Day of Week], [Month Day, Year] • [Time in IST]
+
+ABSTRACT:
+[Write or paste the 150–300 word abstract of the colloquium here. Separate paragraphs with a blank line.]
+
+[Optional additional biographical or reading note: If the speaker wishes to cite one or two foundational references for students to read prior to the talk, list them here.]

@@ -1,0 +1,8 @@
+TALK TITLE: The Architecture of Spatial Perception and Conceptual Representation
+SPEAKER: Prof. Sami Yousif (University of Pennsylvania)
+DATE: Friday, December 4, 2026 • 6:30 PM IST (Evening Session)
+
+ABSTRACT:
+Spatial representations are often assumed to be either low-level perceptual maps or abstract geometric formulas. In this colloquium, I present psychophysical and cognitive experiments demonstrating that the human visual system constructs structured, relational representations of space that bridge perceptual organization and high-level judgment.
+
+We evaluate how humans encode relations of containment, support, and distance, showing that subtle changes in perceptual grouping systematically distort memory and spatial inference. Furthermore, we consider the extent to which spatial cognition serves as a foundational scaffold for non-spatial conceptual thought, such as temporal sequencing and mathematical valuation.

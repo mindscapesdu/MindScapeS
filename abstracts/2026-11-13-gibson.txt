@@ -1,0 +1,8 @@
+TALK TITLE: Communicative Efficiency and Information-Theoretic Constraints on Language
+SPEAKER: Prof. Edward Gibson (Massachusetts Institute of Technology)
+DATE: Friday, November 13, 2026 • 7:30 PM IST
+
+ABSTRACT:
+Human languages display striking structural diversity across lexicons, word order topologies, and morphosyntactic systems. Despite this surface variation, cross-linguistic evidence suggests that natural languages converge on shared information-theoretic principles optimized for communication over noisy channels under cognitive resource bounds.
+
+Drawing on behavioral reaction-time studies, corpus analyses, and computational models of working memory, this talk evaluates Dependency Locality Theory (DLT) and uniform information density constraints. I demonstrate that syntactic structures across diverse language families systematically minimize dependency lengths between heads and dependents, thereby reducing cognitive parsing load. We examine how these communicative pressures interact with linguistic representations and philosophical accounts of semantic compositionality.
